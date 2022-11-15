@@ -44,9 +44,11 @@
 <hr>
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=cankskrk&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cankskrk&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cankskrk&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cankskrk&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <br>
 
