@@ -4,7 +4,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on ###[SmartEdu Project](https://github.com/cankskrk/SmartEdu-Project)
+- 🔭 I’m currently working on [SmartEdu Project](https://github.com/cankskrk/SmartEdu-Project)
 
 - 🌱 I’m currently learning **React, NodeJS, Rust**
 
