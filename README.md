@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [SmartEdu Project](https://github.com/cankskrk/SmartEdu-Project)
 
-- 🌱 I’m currently learning **React, NodeJS, Rust**
+- 🌱 I’m currently learning **React, Node.js, Rust**
 
 - 📫 How to reach me **ardacankisakurek@gmail.com**
 
