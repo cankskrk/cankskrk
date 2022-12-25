@@ -1,5 +1,5 @@
 <h1 style="font-weight: bold;" align="center">Hi 👋, I'm Arda</h1>
-<h3 align="center">A passionate frontend and backend developer from Turkey</h3>
+<h3 align="center">A passionate Full-Stack Developer from Turkey</h3>
 
 <br>
 <br>
