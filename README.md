@@ -18,12 +18,12 @@
 <hr>
 <br>
 
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arda-can-kisakurek-10b656216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arda-can-kisakurek-10b656216/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18049575" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18049575" height="30" width="40" /></a>
-<a href="https://instagram.com/cankskrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cankskrk" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ardacankisakurek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ardacankisakurek" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/cankskrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="cankskrk" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <a href="https://www.linkedin.com/in/arda-can-kisakurek/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+    <a href="https://stackoverflow.com/users/18049575/arda-can-k%c4%b1sak%c3%bcrek"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  </a>
 </p>
 
 <br>
