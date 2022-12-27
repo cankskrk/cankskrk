@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on -
 
-- 🌱 I’m currently learning **React, Node.js, Rust**
+- 🌱 I’m currently learning **React, Node.js, Go**
 
 - 📫 How to reach me **ardacankisakurek@gmail.com**
 
