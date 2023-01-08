@@ -4,7 +4,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on Reacy Keeper App
+- 🔭 I’m currently working on React Keeper App
 
 - 🌱 I’m currently learning **React, Node.js, Go**
 
