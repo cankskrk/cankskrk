@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on React Keeper App
 
-- 🌱 I’m currently learning **React, Node.js, Go**
+- 🌱 I’m currently learning **React, Python, Go**
 
 - 📫 How to reach me **ardacankisakurek@gmail.com**
 
