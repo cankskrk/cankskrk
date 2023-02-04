@@ -4,7 +4,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on **Discover Coffee Stores**
+- 🔭 I’m currently working on **Discover Coffee Stores and React Todo**
 
 - 🌱 I’m currently learning **React, Python, Go**
 
