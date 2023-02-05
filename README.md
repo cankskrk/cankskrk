@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Discover Coffee Stores**
 
-- 🌱 I’m currently learning **React, Python, Go**
+- 🌱 I’m currently learning **React, Python, Go and Next.js**
 
 - 📫 How to reach me **ardacankisakurek@gmail.com**
 
