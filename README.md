@@ -47,14 +47,10 @@
 <hr>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cankskrk&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cankskrk&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=cankskrk&theme=radical&hide_border=true)<br/>
-
-<br>
-
-[![](https://visitcount.itsvg.in/api?id=cankskrk&icon=6&color=11)](https://visitcount.itsvg.in)
+![](https://github-readme-streak-stats.herokuapp.com/?user=cankskrk&theme=tokyonight&hide_border=true)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
